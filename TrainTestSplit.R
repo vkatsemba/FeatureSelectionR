@@ -13,3 +13,5 @@ table(data$havarth3)
 2658/nrow(training)
 1369/nrow(testing)
 4027/nrow(data)
+
+#The distributions are similair
